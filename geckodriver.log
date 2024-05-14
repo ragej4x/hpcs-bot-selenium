@@ -1,0 +1,771 @@
+1715669910417	geckodriver	INFO	Listening on 127.0.0.1:52311
+1715670283678	geckodriver	INFO	Listening on 127.0.0.1:52441
+1715670286765	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\aczon\\AppData\\Local\\Temp\\rust_mozprofileoTQcR0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715670287018	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715670287077	Marionette	INFO	Listening on port 52451
+Read port: 52451
+1715670287226	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://gum.criteo.com/sync?c=72&r=2&j=TRC.getRTUS&us_privacy=1---&gdpr=0&gdpr_consent=&gdpr_pd=, line 1: Script terminated by timeout at:
+e.prototype.flushEventQueue@https://gum.criteo.com/sync?c=72&r=2&j=TRC.getRTUS&us_privacy=1---&gdpr=0&gdpr_consent=&gdpr_pd=:1:28659
+e/<@https://gum.criteo.com/sync?c=72&r=2&j=TRC.getRTUS&us_privacy=1---&gdpr=0&gdpr_consent=&gdpr_pd=:1:27621
+
+JavaScript error: resource://autofill/FormAutofillChild.sys.mjs, line 182: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1715670306052	Marionette	INFO	Stopped listening on port 52451
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1715670860153	geckodriver	INFO	Listening on 127.0.0.1:52648
+1715670863230	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\aczon\\AppData\\Local\\Temp\\rust_mozprofileR5WBu3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715670863499	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715670863558	Marionette	INFO	Listening on port 52658
+Read port: 52658
+1715670863705	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1715670871645	Marionette	INFO	Stopped listening on port 52658
+Dynamically enable window occlusion 1
+1715671316926	geckodriver	INFO	Listening on 127.0.0.1:52715
+1715671319995	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\aczon\\AppData\\Local\\Temp\\rust_mozprofileBQxP2z"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715671320245	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715671320303	Marionette	INFO	Listening on port 52725
+Read port: 52725
+1715671320451	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1715671331662	Marionette	INFO	Stopped listening on port 52725
+Dynamically enable window occlusion 1
+1715671761946	geckodriver	INFO	Listening on 127.0.0.1:52814
+1715671765022	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\aczon\\AppData\\Local\\Temp\\rust_mozprofileotsR7u"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715671765292	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715671765356	Marionette	INFO	Listening on port 52824
+Read port: 52824
+1715671765526	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1715671777109	Marionette	INFO	Stopped listening on port 52824
+Dynamically enable window occlusion 1
+1715671945116	geckodriver	INFO	Listening on 127.0.0.1:52881
+1715671948178	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\aczon\\AppData\\Local\\Temp\\rust_mozprofile82Upy8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715671948428	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715671948486	Marionette	INFO	Listening on port 52891
+Read port: 52891
+1715671948635	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hpcs-admin.com."
+1715671968542	Marionette	INFO	Stopped listening on port 52891
+Dynamically enable window occlusion 1
+1715672091528	geckodriver	INFO	Listening on 127.0.0.1:52929
+1715672094583	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\aczon\\AppData\\Local\\Temp\\rust_mozprofilezvCVjb"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715672094835	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715672094893	Marionette	INFO	Listening on port 52939
+Read port: 52939
+1715672095047	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hpcs-admin.com."
+1715672104843	Marionette	INFO	Stopped listening on port 52939
+Dynamically enable window occlusion 1
+1715672216771	geckodriver	INFO	Listening on 127.0.0.1:53004
+1715672219834	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\aczon\\AppData\\Local\\Temp\\rust_mozprofileF7DvYF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715672220086	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715672220149	Marionette	INFO	Listening on port 53014
+Read port: 53014
+1715672220302	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hpcs-admin.com."
+[Child 10436, MediaDecoderStateMachine #1] WARNING: a3cc240 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:320
+JavaScript error: resource://gre/actors/AudioPlaybackChild.sys.mjs, line 17: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1715672236922	Marionette	INFO	Stopped listening on port 53014
+Dynamically enable window occlusion 1
+1715672588138	geckodriver	INFO	Listening on 127.0.0.1:53069
+1715672591204	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\aczon\\AppData\\Local\\Temp\\rust_mozprofile8k6EOt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715672591455	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715672591515	Marionette	INFO	Listening on port 53079
+Read port: 53079
+1715672591663	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hpcs-admin.com."
+1715672605241	Marionette	INFO	Stopped listening on port 53079
+Dynamically enable window occlusion 1
+1715672617358	geckodriver	INFO	Listening on 127.0.0.1:53109
+1715672620416	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\aczon\\AppData\\Local\\Temp\\rust_mozprofileXGlgbj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715672620668	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715672620727	Marionette	INFO	Listening on port 53119
+Read port: 53119
+1715672620877	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hpcs-admin.com."
+[Child 11092, MediaDecoderStateMachine #1] WARNING: c88bb00 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:320
+1715672651409	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1715672672331	Marionette	INFO	Stopped listening on port 53119
+Dynamically enable window occlusion 1
+1715672673119	geckodriver	INFO	Listening on 127.0.0.1:53162
+1715672676172	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\aczon\\AppData\\Local\\Temp\\rust_mozprofilePVKdXP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715672676432	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715672676493	Marionette	INFO	Listening on port 53172
+Read port: 53172
+1715672676651	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hpcs-admin.com."
+1715672708011	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1715672776566	Marionette	INFO	Stopped listening on port 53172
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\aczon\\AppData\\Local\\Temp\\rust_mozprofileRHifG9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715672773860	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715672773919	Marionette	INFO	Listening on port 53216
+Read port: 53216
+1715672774076	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1715672775477	Marionette	INFO	Stopped listening on port 53216
+Dynamically enable window occlusion 1
+console.warn: services.settings: main/fingerprinting-protection-overrides sync interrupted by shutdown
+console.warn: services.settings: main/query-stripping sync interrupted by shutdown
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+1715672779053	geckodriver	INFO	Listening on 127.0.0.1:53224
+1715672782120	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\aczon\\AppData\\Local\\Temp\\rust_mozprofileI7WMMK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715672782372	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715672782430	Marionette	INFO	Listening on port 53234
+Read port: 53234
+1715672782583	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hpcs-admin.com."
+[Child 1628, MediaDecoderStateMachine #1] WARNING: abcb920 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:320
+JavaScript error: resource://gre/actors/AudioPlaybackChild.sys.mjs, line 17: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1715672807991	Marionette	INFO	Stopped listening on port 53234
+Dynamically enable window occlusion 1
+1715672927173	geckodriver	INFO	Listening on 127.0.0.1:53272
+1715672930246	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\aczon\\AppData\\Local\\Temp\\rust_mozprofilesiowh0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715672930501	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715672930560	Marionette	INFO	Listening on port 53283
+Read port: 53283
+1715672930713	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hpcs-admin.com."
+1715672942241	Marionette	INFO	Stopped listening on port 53283
+Dynamically enable window occlusion 1
+1715672950902	geckodriver	INFO	Listening on 127.0.0.1:53314
+1715672953944	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\aczon\\AppData\\Local\\Temp\\rust_mozprofileKQISU8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715672954199	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715672954257	Marionette	INFO	Listening on port 53324
+Read port: 53324
+1715672954411	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hpcs-admin.com."
+1715672968574	Marionette	INFO	Stopped listening on port 53324
+Dynamically enable window occlusion 1
+1715673000422	geckodriver	INFO	Listening on 127.0.0.1:53356
+1715673003503	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\aczon\\AppData\\Local\\Temp\\rust_mozprofileAA3WPv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715673003754	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715673003812	Marionette	INFO	Listening on port 53366
+Read port: 53366
+1715673003969	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hpcs-admin.com."
+1715673016975	Marionette	INFO	Stopped listening on port 53366
+Dynamically enable window occlusion 1
+1715673165927	geckodriver	INFO	Listening on 127.0.0.1:53412
+1715673168977	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\aczon\\AppData\\Local\\Temp\\rust_mozprofileYAJnSl"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715673169237	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715673169295	Marionette	INFO	Listening on port 53422
+Read port: 53422
+1715673169449	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hpcs-admin.com."
+[Child 11588, MediaDecoderStateMachine #1] WARNING: a9d6600 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:320
+1715673199251	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1715674017594	Marionette	INFO	Stopped listening on port 53422
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\aczon\\AppData\\Local\\Temp\\rust_mozprofileuuy8AH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715673468154	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715673468219	Marionette	INFO	Listening on port 53546
+Read port: 53546
+1715673468372	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hpcs-admin.com."
+[Child 10224, MediaDecoderStateMachine #1] WARNING: a2cde80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:320
+JavaScript error: resource://gre/actors/AudioPlaybackChild.sys.mjs, line 17: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1715673486931	Marionette	INFO	Stopped listening on port 53546
+Dynamically enable window occlusion 1
+1715673524759	geckodriver	INFO	Listening on 127.0.0.1:53577
+1715673527831	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\aczon\\AppData\\Local\\Temp\\rust_mozprofileOG6s44"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715673528085	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715673528144	Marionette	INFO	Listening on port 53587
+Read port: 53587
+1715673528299	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hpcs-admin.com."
+1715673549985	Marionette	INFO	Stopped listening on port 53587
+Dynamically enable window occlusion 1
+1715673653805	geckodriver	INFO	Listening on 127.0.0.1:53619
+1715673656868	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\aczon\\AppData\\Local\\Temp\\rust_mozprofilesNtHdC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715673657118	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715673657177	Marionette	INFO	Listening on port 53630
+Read port: 53630
+1715673657326	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hpcs-admin.com."
+1715673675529	Marionette	INFO	Stopped listening on port 53630
+Dynamically enable window occlusion 1
+1715673730315	geckodriver	INFO	Listening on 127.0.0.1:53662
+1715673733389	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\aczon\\AppData\\Local\\Temp\\rust_mozprofilel9kjgf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715673733634	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715673733693	Marionette	INFO	Listening on port 53672
+Read port: 53672
+1715673733846	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hpcs-admin.com."
+[Child 9184, MediaDecoderStateMachine #1] WARNING: a9cc060 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:320
+JavaScript error: resource://gre/actors/AudioPlaybackChild.sys.mjs, line 17: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1715673763180	Marionette	INFO	Stopped listening on port 53672
+Dynamically enable window occlusion 1
+1715673765478	geckodriver	INFO	Listening on 127.0.0.1:53700
+1715673768558	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\aczon\\AppData\\Local\\Temp\\rust_mozprofilefErMe1"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715673768807	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715673768866	Marionette	INFO	Listening on port 53710
+Read port: 53710
+1715673769017	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hpcs-admin.com."
+1715673786517	Marionette	INFO	Stopped listening on port 53710
+Dynamically enable window occlusion 1
+1715673890790	geckodriver	INFO	Listening on 127.0.0.1:53744
+1715673893873	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\aczon\\AppData\\Local\\Temp\\rust_mozprofile7RTU2Q"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715673894119	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715673894177	Marionette	INFO	Listening on port 53754
+Read port: 53754
+1715673894331	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hpcs-admin.com."
+1715673910008	Marionette	INFO	Stopped listening on port 53754
+Dynamically enable window occlusion 1
+1715673919006	geckodriver	INFO	Listening on 127.0.0.1:53784
+1715673922082	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\aczon\\AppData\\Local\\Temp\\rust_mozprofileD4sylE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715673922327	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715673922385	Marionette	INFO	Listening on port 53794
+Read port: 53794
+1715673922537	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hpcs-admin.com."
+1715673953972	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1715674020310	Marionette	INFO	Stopped listening on port 53794
+Dynamically enable window occlusion 1
+1715674021749	geckodriver	INFO	Listening on 127.0.0.1:53836
+1715674024831	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\aczon\\AppData\\Local\\Temp\\rust_mozprofileT1s9XI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715674025097	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715674025157	Marionette	INFO	Listening on port 53846
+Read port: 53846
+1715674025313	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hpcs-admin.com."
+1715674040806	Marionette	INFO	Stopped listening on port 53846
+Dynamically enable window occlusion 1
+1715674061184	geckodriver	INFO	Listening on 127.0.0.1:53878
+1715674064242	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\aczon\\AppData\\Local\\Temp\\rust_mozprofileH7Ku2y"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715674064498	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715674064557	Marionette	INFO	Listening on port 53888
+Read port: 53888
+1715674064708	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hpcs-admin.com."
+[Child 12892, MediaDecoderStateMachine #1] WARNING: a9cdc00 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:320
+JavaScript error: resource://gre/actors/AudioPlaybackChild.sys.mjs, line 17: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1715674092406	Marionette	INFO	Stopped listening on port 53888
+Dynamically enable window occlusion 1
+1715674350110	geckodriver	INFO	Listening on 127.0.0.1:53969
+1715674353171	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\aczon\\AppData\\Local\\Temp\\rust_mozprofileXHgLBL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715674353425	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715674353484	Marionette	INFO	Listening on port 53979
+Read port: 53979
+1715674353636	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hpcs-admin.com."
+[Child 5448, MediaDecoderStateMachine #1] WARNING: c3c60c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:320
+1715674382416	Marionette	INFO	Stopped listening on port 53979
+Dynamically enable window occlusion 1
+1715674569710	geckodriver	INFO	Listening on 127.0.0.1:54018
+1715674572790	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\aczon\\AppData\\Local\\Temp\\rust_mozprofilexnZINq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715674573040	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715674573099	Marionette	INFO	Listening on port 54028
+Read port: 54028
+1715674573247	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hpcs-admin.com."
+[Child 6236, MediaDecoderStateMachine #1] WARNING: d0b7160 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:320
+1715674603054	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1715674611343	Marionette	INFO	Stopped listening on port 54028
+Dynamically enable window occlusion 1
+1715674612435	geckodriver	INFO	Listening on 127.0.0.1:54061
+1715674615500	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\aczon\\AppData\\Local\\Temp\\rust_mozprofileUxzFGm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715674615752	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715674615811	Marionette	INFO	Listening on port 54071
+Read port: 54071
+1715674615963	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hpcs-admin.com."
+[Child 11356, MediaDecoderStateMachine #1] WARNING: a2cc880 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:320
+1715674646030	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+[Child 11356, MediaDecoderStateMachine #1] WARNING: c6ace80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:320
+JavaScript error: resource://gre/actors/AudioPlaybackChild.sys.mjs, line 17: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1715674648174	Marionette	INFO	Stopped listening on port 54071
+Dynamically enable window occlusion 1
+console.error: services.settings: 
+  Message: StorageError: Storage error: Error: IndexedDB: main/search-config-v2 pruneAttachments() IndexedDB:  execute() The application is shutting down
+  Stack:
+    StorageError@resource://services-settings/RemoteSettingsClient.sys.mjs:153:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:928:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:816:38
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:569:17
+
+console.warn: services.settings: main/fingerprinting-protection-overrides sync interrupted by shutdown
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+console.error: (new Error("IndexedDB: main/translations-wasm getLastModified() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1715674760689	geckodriver	INFO	Listening on 127.0.0.1:54128
+1715674763757	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\aczon\\AppData\\Local\\Temp\\rust_mozprofileNxbcZy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715674764014	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715674764072	Marionette	INFO	Listening on port 54138
+Read port: 54138
+1715674764227	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hpcs-admin.com."
+[Child 2916, MediaDecoderStateMachine #1] WARNING: c48c160 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:320
+1715674794224	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1715674819818	Marionette	INFO	Stopped listening on port 54138
+Dynamically enable window occlusion 1
+1715674824135	geckodriver	INFO	Listening on 127.0.0.1:54175
+1715674827208	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\aczon\\AppData\\Local\\Temp\\rust_mozprofile2BMPoJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715674827476	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715674827537	Marionette	INFO	Listening on port 54185
+Read port: 54185
+1715674827697	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hpcs-admin.com."
+[Child 9632, MediaDecoderStateMachine #1] WARNING: c9b6160 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:320
+1715674857613	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1715674863230	Marionette	INFO	Stopped listening on port 54185
+Dynamically enable window occlusion 1
+1715674864299	geckodriver	INFO	Listening on 127.0.0.1:54215
+1715674867361	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\aczon\\AppData\\Local\\Temp\\rust_mozprofile9aOyNS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715674867618	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715674867677	Marionette	INFO	Listening on port 54227
+Read port: 54227
+1715674867825	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hpcs-admin.com."
+[Child 2768, MediaDecoderStateMachine #1] WARNING: c9c0020 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:320
+[Child 2768, MediaDecoderStateMachine #1] WARNING: a4d5c40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:320
+1715674899306	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1715674963671	Marionette	INFO	Stopped listening on port 54227
+Dynamically enable window occlusion 1
+1715675822948	geckodriver	INFO	Listening on 127.0.0.1:54414
+1715675826028	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\aczon\\AppData\\Local\\Temp\\rust_mozprofileOphNxU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715675826282	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715675826343	Marionette	INFO	Listening on port 54424
+Read port: 54424
+1715675826491	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1715675846444	Marionette	INFO	Stopped listening on port 54424
+Dynamically enable window occlusion 1
+1715676018819	geckodriver	INFO	Listening on 127.0.0.1:54469
+1715676021898	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\aczon\\AppData\\Local\\Temp\\rust_mozprofileibinML"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715676022152	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715676022212	Marionette	INFO	Listening on port 54479
+Read port: 54479
+1715676022363	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hpcs-admin.com."
+1715676052662	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Listening on 127.0.0.1:54518
+1715676102997	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\aczon\\AppData\\Local\\Temp\\rust_mozprofilew1Dvsd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715676103241	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715676103299	Marionette	INFO	Listening on port 54528
+Read port: 54528
+1715676103445	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hpcs-admin.com."
+1715676120013	Marionette	INFO	Stopped listening on port 54528
+Dynamically enable window occlusion 1
+1715713648040	geckodriver	INFO	Listening on 127.0.0.1:50191
+1715713651115	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\aczon\\AppData\\Local\\Temp\\rust_mozprofileDD1477"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715713651432	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715713651498	Marionette	INFO	Listening on port 50203
+Read port: 50203
+1715713651660	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hpcs-admin.com."
+1715713665374	Marionette	INFO	Stopped listening on port 50203
+Dynamically enable window occlusion 1
+1715713717389	geckodriver	INFO	Listening on 127.0.0.1:50239
+1715713720471	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\aczon\\AppData\\Local\\Temp\\rust_mozprofileqPv758"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715713720736	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715713720796	Marionette	INFO	Listening on port 50249
+Read port: 50249
+1715713720950	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hpcs-admin.com."
+[Child 10664, MediaDecoderStateMachine #1] WARNING: c5ab480 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:320
+[Child 10664, MediaDecoderStateMachine #1] WARNING: c5052e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:320
+1715713751289	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1715714112747	Marionette	INFO	Stopped listening on port 50249
+Dynamically enable window occlusion 1
+1715714194085	geckodriver	INFO	Listening on 127.0.0.1:50357
+1715714197160	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\aczon\\AppData\\Local\\Temp\\rust_mozprofilemk303d"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715714197408	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715714197465	Marionette	INFO	Listening on port 50367
+Read port: 50367
+1715714197611	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hpcs-admin.com."
+1715714218477	Marionette	INFO	Stopped listening on port 50367
+Dynamically enable window occlusion 1
+1715714232395	geckodriver	INFO	Listening on 127.0.0.1:50397
+1715714235454	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\aczon\\AppData\\Local\\Temp\\rust_mozprofile2u1qyX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715714235698	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715714235755	Marionette	INFO	Listening on port 50407
+Read port: 50407
+1715714235880	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hpcs-admin.com."
+1715714266229	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1715714274902	Marionette	INFO	Stopped listening on port 50407
+Dynamically enable window occlusion 1
+1715714333647	geckodriver	INFO	Listening on 127.0.0.1:50441
+1715714336706	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\aczon\\AppData\\Local\\Temp\\rust_mozprofilejx69vU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715714337009	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715714337067	Marionette	INFO	Listening on port 50451
+Read port: 50451
+1715714337213	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hpcs-admin.com."
+1715714367034	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1715714621337	Marionette	INFO	Stopped listening on port 50451
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\aczon\\AppData\\Local\\Temp\\rust_mozprofileCPLNID"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715714511746	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715714511803	Marionette	INFO	Listening on port 50515
+Read port: 50515
+1715714511954	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hpcs-admin.com."
+1715714541766	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1715714620750	Marionette	INFO	Stopped listening on port 50515
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\aczon\\AppData\\Local\\Temp\\rust_mozprofile0R6tOl"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715714567489	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715714567546	Marionette	INFO	Listening on port 50555
+Read port: 50555
+1715714567671	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hpcs-admin.com."
+[Child 11696, MediaDecoderStateMachine #1] WARNING: c7ac340 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:320
+[Child 11696, MediaDecoderStateMachine #1] WARNING: c7ac160 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:320
+1715714599272	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: chrome://browser/content/preferences/moreFromMozilla.js, line 83: TypeError: Region.home is null
+1715714846488	Marionette	INFO	Stopped listening on port 50555
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\aczon\\AppData\\Local\\Temp\\rust_mozprofiler4DMWi"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715714760787	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715714760844	Marionette	INFO	Listening on port 50602
+Read port: 50602
+1715714760972	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hpcs-admin.com."
+[Child 10364, MediaDecoderStateMachine #1] WARNING: acc6740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:320
+[Child 10364, MediaDecoderStateMachine #1] WARNING: acc62e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:320
+1715714792367	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1715714841006	Marionette	INFO	Stopped listening on port 50602
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1715714868936	geckodriver	INFO	Listening on 127.0.0.1:50637
+1715714871991	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\aczon\\AppData\\Local\\Temp\\rust_mozprofilejKDqHW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715714872238	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715714872298	Marionette	INFO	Listening on port 50647
+Read port: 50647
+1715714872445	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hpcs-admin.com."
+[Child 10016, MediaDecoderStateMachine #1] WARNING: a5dd4c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:320
+1715714903781	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+[Child 10016, MediaDecoderStateMachine #1] WARNING: cbcbb60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:320
+1715715094367	Marionette	INFO	Stopped listening on port 50647
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\aczon\\AppData\\Local\\Temp\\rust_mozprofile1PH0eX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715715091082	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715715091140	Marionette	INFO	Listening on port 50777
+Read port: 50777
+1715715091289	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hpcs-admin.com."
+[Child 10248, MediaDecoderStateMachine #1] WARNING: abcc7e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:320
+[Child 10248, MediaDecoderStateMachine #1] WARNING: abcc380 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:320
+1715715121242	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1715715849090	Marionette	INFO	Stopped listening on port 50777
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\aczon\\AppData\\Local\\Temp\\rust_mozprofileEtCx6v"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715715556515	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715715556574	Marionette	INFO	Listening on port 50883
+Read port: 50883
+1715715556724	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hpcs-admin.com."
+[Child 12208, MediaDecoderStateMachine #1] WARNING: c7c6020 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:320
+[Child 12208, MediaDecoderStateMachine #1] WARNING: a2cc600 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:320
+1715715589212	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1715715734992	Marionette	INFO	Stopped listening on port 50883
+Dynamically enable window occlusion 1
+1715715747084	geckodriver	INFO	Listening on 127.0.0.1:50917
+1715715750112	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\aczon\\AppData\\Local\\Temp\\rust_mozprofile2Z9IIJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715715750360	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715715750421	Marionette	INFO	Listening on port 50927
+Read port: 50927
+1715715750573	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hpcs-admin.com."
+[Child 10800, MediaDecoderStateMachine #1] WARNING: c9ba8e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:320
+[Child 10800, MediaDecoderStateMachine #1] WARNING: c9ba020 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:320
+1715715780908	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1715715838165	Marionette	INFO	Stopped listening on port 50927
+Dynamically enable window occlusion 1
+1715717034608	geckodriver	INFO	Listening on 127.0.0.1:52317
+1715717037662	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\aczon\\AppData\\Local\\Temp\\rust_mozprofileAU5Ssi"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715717037906	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715717037965	Marionette	INFO	Listening on port 52327
+Read port: 52327
+1715717038112	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hpcs-admin.com."
+1715717068333	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1715717296063	Marionette	INFO	Stopped listening on port 52327
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\aczon\\AppData\\Local\\Temp\\rust_mozprofileto7Ov3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715717125470	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715717125528	Marionette	INFO	Listening on port 52373
+Read port: 52373
+1715717125654	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hpcs-admin.com."
+[Child 12368, MediaDecoderStateMachine #1] WARNING: c5c9520 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:320
+[Child 12368, MediaDecoderStateMachine #1] WARNING: a2dcf60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:320
+1715717155992	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1715717293491	Marionette	INFO	Stopped listening on port 52373
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+erver
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715717216509	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715717216571	Marionette	INFO	Listening on port 52414
+Read port: 52414
+1715717216728	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hpcs-admin.com."
+[Child 12580, MediaDecoderStateMachine #1] WARNING: c609f60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:320
+[Child 12580, MediaDecoderStateMachine #1] WARNING: c609880 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:320
+1715717246756	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1715717268442	Marionette	INFO	Stopped listening on port 52414
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1715717322255	geckodriver	INFO	Listening on 127.0.0.1:52446
+1715717325302	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\aczon\\AppData\\Local\\Temp\\rust_mozprofile5m2Bqu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715717325556	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715717325616	Marionette	INFO	Listening on port 52456
+Read port: 52456
+1715717325764	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hpcs-admin.com."
+[Child 12012, MediaDecoderStateMachine #1] WARNING: 12040060 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:320
+1715717355662	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1715717402566	Marionette	INFO	Stopped listening on port 52456
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1715717415884	geckodriver	INFO	Listening on 127.0.0.1:52487
+1715717418948	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\aczon\\AppData\\Local\\Temp\\rust_mozprofile34hvZw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715717419204	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715717419263	Marionette	INFO	Listening on port 52497
+Read port: 52497
+1715717419409	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1715717422803	Marionette	INFO	Stopped listening on port 52497
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1715717628953	geckodriver	INFO	Listening on 127.0.0.1:52557
+1715717632023	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\aczon\\AppData\\Local\\Temp\\rust_mozprofileMuc2ZI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715717632279	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715717632337	Marionette	INFO	Listening on port 52567
+Read port: 52567
+1715717632490	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hpcs-admin.com."
+[Child 4184, MediaDecoderStateMachine #1] WARNING: a3cd9c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:320
+[Child 4184, MediaDecoderStateMachine #1] WARNING: a3cdc40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:320
+1715717664581	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: resource://gre/actors/AudioPlaybackChild.sys.mjs, line 17: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1715717668949	Marionette	INFO	Stopped listening on port 52567
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1715717704208	geckodriver	INFO	Listening on 127.0.0.1:52600
+1715717707283	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\aczon\\AppData\\Local\\Temp\\rust_mozprofilec4e6mt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715717707528	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715717707585	Marionette	INFO	Listening on port 52610
+Read port: 52610
+1715717707631	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hpcs-admin.com."
+[Child 4524, MediaDecoderStateMachine #1] WARNING: cbb97a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:320
+[Child 4524, MediaDecoderStateMachine #1] WARNING: cbb9c00 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:320
+1715717738018	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+am Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\aczon\\AppData\\Local\\Temp\\rust_mozprofilem2eZUy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715717800407	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715717800468	Marionette	INFO	Listening on port 52652
+Read port: 52652
+1715717800622	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1715717803878	Marionette	INFO	Stopped listening on port 52652
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1715717835488	geckodriver	INFO	Listening on 127.0.0.1:52669
+1715717838542	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\aczon\\AppData\\Local\\Temp\\rust_mozprofileMEbPah"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715717838797	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715717838857	Marionette	INFO	Listening on port 52679
+Read port: 52679
+1715717839014	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hpcs-admin.com."
+[Child 10328, MediaDecoderStateMachine #1] WARNING: a2cd880 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:320
+[Child 10328, MediaDecoderStateMachine #1] WARNING: c7b9100 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:320
+1715717870310	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+1715717902209	geckodriver	INFO	Listening on 127.0.0.1:52711
+1715717985346	geckodriver	INFO	Listening on 127.0.0.1:52737
+1715717988415	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\aczon\\AppData\\Local\\Temp\\rust_mozprofilezQhI6H"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715717988687	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715717988750	Marionette	INFO	Listening on port 52748
+Read port: 52748
+1715717988913	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hpcs-admin.com."
+[Child 9872, MediaDecoderStateMachine #1] WARNING: a6c74c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:320
+1715718018778	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+[Child 9872, MediaDecoderStateMachine #1] WARNING: a6c7060 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:320
+1715718085145	geckodriver	INFO	Listening on 127.0.0.1:52791
+1715718088189	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\aczon\\AppData\\Local\\Temp\\rust_mozprofilejvm908"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1715718088441	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1715718088499	Marionette	INFO	Listening on port 52801
+Read port: 52801
+1715718088653	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hpcs-admin.com."
+[Child 304, MediaDecoderStateMachine #1] WARNING: abd8f60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:320
+[Child 304, MediaDecoderStateMachine #1] WARNING: d0ea1a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:320
+1715718118926	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
