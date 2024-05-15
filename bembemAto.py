@@ -31,6 +31,8 @@ def main(pts, PASSWORD, USER):
     #NUM_OF_LOOP = input("NUMBER OF LOGINS : ")
     PATH = "geckodriver.exe"
     driver = webdriver.Firefox()
+    driver.set_window_position(1700, 1900)
+    driver.set_window_size(80, 100)
 
     driver.get("https://hpcs-admin.com/router/login.php")
     time.sleep(3)
@@ -93,6 +95,9 @@ def main(pts, PASSWORD, USER):
 
     with open ('logs.txt', 'a+') as log:
         log.write(f"POINTS : {pts} \n")
+
+
+    driver.close()
         
 #LOOP
 while True:
