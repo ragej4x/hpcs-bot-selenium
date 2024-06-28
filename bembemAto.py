@@ -7,6 +7,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import time
 import datetime
+from selenium.webdriver.common.action_chains import ActionChains
 #COUNTER
 pts = 0
 limit = 400
@@ -31,8 +32,9 @@ def main(pts, PASSWORD, USER):
     #NUM_OF_LOOP = input("NUMBER OF LOGINS : ")
     PATH = "geckodriver.exe"
     driver = webdriver.Firefox()
-    driver.set_window_position(1700, 1900)
-    driver.set_window_size(80, 100)
+    driver.set_window_position(0, 0)
+    driver.set_window_size(600, 600)
+    
 
     driver.get("https://hpcs-admin.com/router/login.php")
     time.sleep(3)
@@ -53,8 +55,8 @@ def main(pts, PASSWORD, USER):
     class main_login_page():
         def __init__(self) -> None:
             self.address = driver.find_element_by_name("member_id")
-            self.password = driver.find_element_by_name("member_pass")
-            self.login_btn = driver.find_element_by_class_name("btn_box")
+            self.password = driver.find_element_by_id("loginPassword")
+            self.login_btn = driver.find_element_by_css_selector('.loginpage-btn')
             
         def update_address(self, email):
             self.address.send_keys(email)
@@ -66,15 +68,16 @@ def main(pts, PASSWORD, USER):
             self.login_btn.click()
 
         def update_close(self):
-
-            self.close_btn = driver.find_element_by_xpath("//button[@onclick=\"go_mov()\"]")
+            #<button class="btn btn_f" type="button">
+            #self.close_btn = driver.find_element_by_xpath('//button[@class="btn btn_f"]')
+            self.close_btn = driver.find_element_by_xpath('//button[contains(@onclick, "go_mov()")]')
+            #print(self.close_btn)
             self.close_btn.click()
 
         def update_continue(self):
-            self.continue_btn = driver.find_element_by_xpath("//button[@onclick=\"vclose0()\"]")
-            self.continue_btn.click()
-
-
+            self.con_btn = driver.find_element_by_xpath('//button[contains(@onclick, "vclose0()")]')
+            self.con_btn.click()
+    
     run = main_login_page()
 
 
@@ -86,9 +89,9 @@ def main(pts, PASSWORD, USER):
     run.update_login()
     time.sleep(2)
     run.update_close()
-    time.sleep(15)
+    time.sleep(1)
     run.update_continue()
-    time.sleep(60)
+    time.sleep(70)
 
     pts + 4
     limit + 1
